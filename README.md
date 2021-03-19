@@ -2,6 +2,8 @@
 
 > We design two pages one is the home page and another one is details page that will help you to design clear interfaces for food delivery app faster and easier.
 
+![Flutter Food Ordering Application](demo.png)
+
 ### Acknowledgment
 
 I saw an [Youtube video](https://www.youtube.com/watch?v=F0ujC60wHwc) and It's encouraged me to repeat this project myself.
