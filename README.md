@@ -39,13 +39,10 @@ $ flutter build apk
 
 What sources I did get help from:
 
-- http://www.androidcoding.in/2020/09/12/flutter-google-fonts/
-- https://pub.dev/packages/google_fonts/example
-- https://stackoverflow.com/questions/59446354/the-google-fonts-package-in-flutter-app-is-not-working
-- https://api.flutter.dev/flutter/material/InkWell-class.html
-- https://pub.dev/packages/google_fonts
-- https://www.geeksforgeeks.org/flutter-using-google-fonts/
-- https://pub.dev/documentation/google_fonts/latest/google_fonts/GoogleFonts-class.html
+- https://github.com/dnfield/flutter_svg/issues/393
+- https://github.com/dnfield/flutter_svg/issues/368
+- https://pub.dev/documentation/flutter_svg/latest/svg/SvgPicture-class.html
+- https://pub.dev/packages/flutter_svg
 
 ### Acknowledgment
 
